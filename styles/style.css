@@ -16,7 +16,7 @@
     justify-content: center;
   }
 
-  .logo {
+   .logo {
     width: 228px;
     height: 32px;
   }
@@ -276,12 +276,6 @@
   z-index: 1;
 }
 
-ul {
-  list-style-type: none;
-  padding-left: 0;
-
-}
-
 .table__cell_theme_dark {
   width: 200px;
   margin-top: 80px;
@@ -344,10 +338,6 @@ ul {
   bottom: 18px;
 }
 
-.logo {
-  width: 228px;
-  height: 32px;
-}
 
 .logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
