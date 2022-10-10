@@ -1,4 +1,4 @@
-.section-title__theme_dark {
+.section-title_theme_dark {
   display: flex;
   justify-content: center;
   line-height: 1.15;
@@ -6,5 +6,4 @@
   font-weight: 600;
   width: 60%;
   margin: 0 0 20px 0;
-  z-index: 1;
 }

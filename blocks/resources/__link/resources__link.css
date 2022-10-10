@@ -1,11 +1,9 @@
 .resources__link {
-    width: 270px;
-    height: 38px;
     display: block;
-    transition: background-color 3s linear 0.5s;
+    opacity: 1;
+  transition: opacity .3s ease;
 }
 
 .resources__link:hover {
-    background-color: white;
     opacity: 0.5;
 }
